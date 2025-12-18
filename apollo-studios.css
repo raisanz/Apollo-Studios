@@ -1,0 +1,19 @@
+body{
+  background-image: URL("https://www.bing.com/th/id/OIP.fp8kNlKj96YBoaDXF_de3QHaEK?w=252&h=211&c=8&rs=1&qlt=90&o=6&cb=ucfimg1&dpr=1.4&pid=3.1&rm=2&ucfimg=1%22");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100vw 100vh;
+}
+.ih{
+  background-color: #043752;
+  color:white;
+  text-align:center;
+}
+.god{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+  border-radius:25px;
+}
